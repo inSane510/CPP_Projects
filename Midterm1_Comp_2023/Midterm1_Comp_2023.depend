@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677550880 source:c:\users\sanchezpc2\documents\265comp\midterm1_comp_2023\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
