@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1679178255 source:c:\users\sanchezpc2\documents\265comp\linkedlisthw_14_11_5\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1679174612 c:\users\sanchezpc2\documents\265comp\linkedlisthw_14_11_5\include\linkedlist.h
+	<Node.h>
+
+1679177177 c:\users\sanchezpc2\documents\265comp\linkedlisthw_14_11_5\include\node.h
+
+1679177177 source:c:\users\sanchezpc2\documents\265comp\linkedlisthw_14_11_5\src\node.cpp
+	"Node.h"
+
+1679176998 source:c:\users\sanchezpc2\documents\265comp\linkedlisthw_14_11_5\src\linkedlist.cpp
+	"LinkedList.h"
+	<string>
+	<iostream>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1681696087 source:c:\users\sanchezpc2\documents\265comp\hashtableassignment\src\hashtable.cpp
+	"hashtable.h"
+	<iostream>
+
+1681491017 c:\users\sanchezpc2\documents\265comp\hashtableassignment\include\hashtable.h
+	<string>
+	<vector>
+
+1681696255 source:c:\users\sanchezpc2\documents\265comp\hashtableassignment\main.cpp
+	<fstream>
+	<string>
+	"hashtable.h"
+	<iostream>
+

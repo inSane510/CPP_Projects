@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1678762087 source:c:\users\sanchezpc2\documents\265comp\queueclass_linkedlists\main.cpp
+	<iostream>
+	"Queue.h"
+
+1678760413 source:c:\users\sanchezpc2\documents\265comp\queueclass_linkedlists\src\node.cpp
+	"Node.h"
+
+1678760571 c:\users\sanchezpc2\documents\265comp\queueclass_linkedlists\include\node.h
+
+1678761988 source:c:\users\sanchezpc2\documents\265comp\queueclass_linkedlists\src\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1678760655 c:\users\sanchezpc2\documents\265comp\queueclass_linkedlists\include\queue.h
+	"Node.h"
+

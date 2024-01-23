@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678757212 source:c:\users\sanchezpc2\documents\265comp\customstackclass\main.cpp
+	<iostream>
+	"stack.h"
+
+1678757798 source:c:\users\sanchezpc2\documents\265comp\customstackclass\src\stack.cpp
+	"Stack.h"
+	"iostream"
+
+1678758194 c:\users\sanchezpc2\documents\265comp\customstackclass\include\stack.h
+

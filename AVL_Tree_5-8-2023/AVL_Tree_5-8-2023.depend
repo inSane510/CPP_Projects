@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683599039 source:c:\users\sanchezpc2\documents\265comp\avl_tree_5-8-2023\main.cpp
+	<iostream>
+	"AVLTree.h"
+
+1683599112 source:c:\users\sanchezpc2\documents\265comp\avl_tree_5-8-2023\src\avltree.cpp
+	"AVLTree.h"
+
+1683598176 c:\users\sanchezpc2\documents\265comp\avl_tree_5-8-2023\include\avltree.h
+	"Node.h"
+	<iostream>
+
+1683596930 source:c:\users\sanchezpc2\documents\265comp\avl_tree_5-8-2023\src\node.cpp
+	"Node.h"
+
+1683596917 c:\users\sanchezpc2\documents\265comp\avl_tree_5-8-2023\include\node.h
+

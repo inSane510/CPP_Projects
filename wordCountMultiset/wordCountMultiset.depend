@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681489661 source:c:\users\sanchezpc2\documents\265comp\wordcountmultiset\main.cpp
+	<iostream>
+	<fstream>
+	<unordered_set>
+

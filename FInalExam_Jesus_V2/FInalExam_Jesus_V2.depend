@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684202733 source:c:\users\sanchezpc2\documents\265comp\finalexam_jesus_v2\main.cpp
+	<iostream>
+	"IntBinaryTree.h"
+
+1684202733 c:\users\sanchezpc2\documents\265comp\finalexam_jesus_v2\include\intbinarytree.h
+
+1684202733 source:c:\users\sanchezpc2\documents\265comp\finalexam_jesus_v2\src\intbinarytree.cpp
+	<iostream>
+	"IntBinaryTree.h"
+

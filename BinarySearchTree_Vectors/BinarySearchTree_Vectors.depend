@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683921931 source:c:\users\sanchezpc2\documents\265comp\binarysearchtree_vectors\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1683922090 c:\users\sanchezpc2\documents\265comp\binarysearchtree_vectors\include\binarysearchtree.h
+	<vector>
+	<string>
+	<iostream>
+
+1683921968 source:c:\users\sanchezpc2\documents\265comp\binarysearchtree_vectors\src\binarysearchtree.cpp
+	"BinarySearchTree.h"
+

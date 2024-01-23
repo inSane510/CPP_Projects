@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680570883 source:c:\users\sanchezpc2\documents\265comp\comp210class_sets_4-3-23\main.cpp
+	<iostream>
+	<unordered_set>
+	<unordered_map>
+	<set>
+

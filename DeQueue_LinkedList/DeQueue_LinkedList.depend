@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679258335 source:c:\users\sanchezpc2\documents\265comp\dequeue_linkedlist\src\node.cpp
+	"Node.h"
+
+1679256702 c:\users\sanchezpc2\documents\265comp\dequeue_linkedlist\include\node.h
+
+1679259208 source:c:\users\sanchezpc2\documents\265comp\dequeue_linkedlist\main.cpp
+	<iostream>
+	"DeQueue.h"
+
+1679256868 c:\users\sanchezpc2\documents\265comp\dequeue_linkedlist\include\dequeue.h
+	"Node.h"
+
+1679259014 source:c:\users\sanchezpc2\documents\265comp\dequeue_linkedlist\src\dequeue.cpp
+	"DeQueue.h"
+	<iostream>
+

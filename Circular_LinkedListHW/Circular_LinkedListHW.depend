@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678579074 source:c:\users\sanchezpc2\documents\265comp\circular_linkedlisthw\main.cpp
+	<string>
+	<iostream>
+	"list.h"
+
+1678570666 c:\users\sanchezpc2\documents\265comp\circular_linkedlisthw\include\list.h
+	<string>
+
+1678579034 source:c:\users\sanchezpc2\documents\265comp\circular_linkedlisthw\src\list.cpp
+	<string>
+	<iostream>
+	"list.h"
+

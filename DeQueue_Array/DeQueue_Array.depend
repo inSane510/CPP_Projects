@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679264195 source:c:\users\sanchezpc2\documents\265comp\dequeue_array\main.cpp
+	<iostream>
+	"DeQueue.h"
+
+1679263989 source:c:\users\sanchezpc2\documents\265comp\dequeue_array\src\dequeue.cpp
+	"DeQueue.h"
+	<iostream>
+
+1679261804 c:\users\sanchezpc2\documents\265comp\dequeue_array\include\dequeue.h
+

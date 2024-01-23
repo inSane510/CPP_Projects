@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679360066 source:c:\users\sanchezpc2\documents\265comp\midterm2_comp265\main.cpp
+	<iostream>
+	"NumberList.h"
+
+1679360039 source:c:\users\sanchezpc2\documents\265comp\midterm2_comp265\src\numberlist.cpp
+	<iostream>
+	"NumberList.h"
+
+1679359768 c:\users\sanchezpc2\documents\265comp\midterm2_comp265\include\numberlist.h
+
